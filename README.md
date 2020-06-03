@@ -5,3 +5,7 @@ para single player
 *server
 *game_client
 *dados_print
+
+para multiplayer
+*servidor
+*cliente
